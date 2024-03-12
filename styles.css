@@ -216,3 +216,10 @@ html {
     font-size: 1.2rem;
     color: #a8a9ab;
 }
+
+@media (max-width: 640px) {
+    .container {
+        width: 100vh;
+        height: 100vh;
+    }
+}
