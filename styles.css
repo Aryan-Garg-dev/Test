@@ -222,4 +222,8 @@ html {
         width: 100vh;
         height: 100vh;
     }
+    .player {
+        width: 30rem;
+        height: 60rem;
+    }
 }
