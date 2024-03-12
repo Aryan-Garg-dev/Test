@@ -218,10 +218,6 @@ html {
 }
 
 @media (max-width: 640px) {
-    .container {
-        width: 100vh;
-        height: 100vh;
-    }
     .player {
         width: 30rem;
         height: 60rem;
